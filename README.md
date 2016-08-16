@@ -2,6 +2,8 @@
 
 "A Stealth, Selective, Link-layer Denial-of-Service Attack Against Automotive Networks"
 
+Demo video at: https://www.youtube.com/watch?v=PmcqCbRMCCk
+
 Arduino Uno Rev 3 DoS Implementation
 
 Uno R3 specific implementation changes with respect to proposed attack algorithm:
